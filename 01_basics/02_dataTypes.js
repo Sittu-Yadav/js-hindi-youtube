@@ -15,9 +15,11 @@ let state =  null
 // 2. bigint ->  mostly using in stock marketing 
 // 3. string => ""
 // 4. boolean => true/false 
-// 5. null => standalone  value
+// 5. null => standalone value ye object hai 
 // 6. undefined => 
 // 7. symbol => unique
 // 8. object -> important hai 
 
 console.log(typeof age)
+console.log(typeof null)
+console.log(typeof undefined)
