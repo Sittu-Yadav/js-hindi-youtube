@@ -6,7 +6,7 @@ console.log(emailId)
 state = "haryana"
 
 /*
-var ka use nhi kerna hia ku ki ye bblock scope hai or functional scope
+var ka use nhi kerna hia ku ki ye bblock scope hai or functional scope 
 */
 
 console.table([emailId,state,emailPassword,city])
