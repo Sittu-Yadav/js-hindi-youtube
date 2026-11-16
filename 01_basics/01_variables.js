@@ -1,12 +1,20 @@
 const emailId = "Sittu@gmail.com"
-let city = "jaipur"
+let accountEmail = "hitesh@google.com"
 var emailPassword = "1234"
-console.log(emailId)
+accountCity = "Jaipur"
+let accountState
 
-state = "haryana"
+// emailId = 2 -> not possible because const was fixed all time 
+
+
+accountEmail = "sittu5174@"
+emailPassword = "22222"
+accountCity = "Bengaleru"
+console.log(emailId);  
+
 
 /*
 var ka use nhi kerna hia ku ki ye bblock scope hai or functional scope 
 */
 
-console.table([emailId,state,emailPassword,city])
+console.table([emailId,  emailPassword, accountCity,accountEmail,accountState])
