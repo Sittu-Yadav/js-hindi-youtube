@@ -45,3 +45,21 @@ let StringNumber = String(Num)
 console.log(StringNumber)
 console.log(typeof StringNumber)
 
+
+// *****************************Operations************************
+let values = 3;
+let negValues = -values
+console.log(negValues)
+
+let str1 = "hello"
+let str2 = " hitesh"
+
+let str3 = str1 + str2
+console.log(str3)
+
+console.log("1" +  2);
+console.log(1 +  "2");
+console.log(1 + 2 +  "2");
+// agar number first hai to value add hogi 
+console.log("1" + 2 +  2);
+// agar string first hai to value string hi hogi 
